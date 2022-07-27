@@ -20,7 +20,7 @@
     },
     {
       "productName": "Wine",
-      "category": "Sugar",
+      "category": "Booze",
       "freshness": "Imported",
       "price": 11,
       "comments": "red wine",
@@ -28,20 +28,20 @@
       "id": 3
     },
     {
-      "productName": "Tequilla",
-      "category": "Sugar",
-      "freshness": "Imported",
+      "productName": "Tequila",
+      "category": "Booze",
+      "freshness": "Local",
       "price": 34,
       "comments": "jose",
       "date": "2022-07-27T05:00:00.000Z",
       "id": 4
     },
     {
-      "productName": "Rum",
-      "category": "Booze",
-      "freshness": "Local",
-      "price": 25,
-      "comments": "ronnie d",
+      "productName": "Peppers",
+      "category": "Veggies",
+      "freshness": "Organic",
+      "price": 4,
+      "comments": "green, red, & orange bell\n",
       "date": "2022-07-27T05:00:00.000Z",
       "id": 5
     }
