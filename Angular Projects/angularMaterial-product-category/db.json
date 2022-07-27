@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Organic",
+      "price": 3,
+      "comments": "yummy",
+      "date": "2022-07-27T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "GMO",
+      "price": 3,
+      "comments": "granny smith",
+      "date": "2022-07-26T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Wine",
+      "category": "Sugar",
+      "freshness": "Imported",
+      "price": 11,
+      "comments": "red wine",
+      "date": "2022-07-26T05:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Tequilla",
+      "category": "Sugar",
+      "freshness": "Imported",
+      "price": 34,
+      "comments": "jose",
+      "date": "2022-07-27T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Rum",
+      "category": "Booze",
+      "freshness": "Local",
+      "price": 25,
+      "comments": "ronnie d",
+      "date": "2022-07-27T05:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
