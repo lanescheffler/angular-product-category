@@ -1,49 +1,31 @@
 {
   "productList": [
     {
-      "productName": "Mango",
-      "category": "Fruits",
-      "freshness": "Organic",
-      "price": 3,
-      "comments": "yummy",
-      "date": "2022-07-27T05:00:00.000Z",
-      "id": 1
-    },
-    {
       "productName": "Apple",
       "category": "Fruits",
       "freshness": "GMO",
       "price": 3,
-      "comments": "granny smith",
-      "date": "2022-07-26T05:00:00.000Z",
+      "comments": "per lbs",
+      "date": "2022-07-29T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Organic",
+      "price": 5,
+      "comments": "yummy yummy",
+      "date": "2022-07-29T05:00:00.000Z",
       "id": 2
     },
     {
-      "productName": "Wine",
-      "category": "Booze",
-      "freshness": "Imported",
-      "price": 11,
-      "comments": "red wine",
-      "date": "2022-07-26T05:00:00.000Z",
+      "productName": "Snickers Bar",
+      "category": "Sugar",
+      "freshness": "GMO",
+      "price": 2,
+      "comments": "satisfy the hunger",
+      "date": "2022-07-31T05:00:00.000Z",
       "id": 3
-    },
-    {
-      "productName": "Tequila",
-      "category": "Booze",
-      "freshness": "Local",
-      "price": 34,
-      "comments": "jose",
-      "date": "2022-07-27T05:00:00.000Z",
-      "id": 4
-    },
-    {
-      "productName": "Peppers",
-      "category": "Veggies",
-      "freshness": "Organic",
-      "price": 4,
-      "comments": "green, red, & orange bell\n",
-      "date": "2022-07-27T05:00:00.000Z",
-      "id": 5
     }
   ],
   "comments": [
