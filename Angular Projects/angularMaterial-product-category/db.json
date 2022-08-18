@@ -3,7 +3,7 @@
     {
       "productName": "Apple",
       "category": "Fruits",
-      "freshness": "GMO",
+      "freshness": "Gluten Free",
       "price": 3,
       "comments": "per lbs",
       "date": "2022-07-29T05:00:00.000Z",
@@ -26,6 +26,15 @@
       "comments": "satisfy the hunger",
       "date": "2022-07-31T05:00:00.000Z",
       "id": 3
+    },
+    {
+      "productName": "Tequila",
+      "category": "Booze",
+      "freshness": "Imported",
+      "price": 55,
+      "comments": "don julio",
+      "date": "2022-08-03T05:00:00.000Z",
+      "id": 4
     }
   ],
   "comments": [
